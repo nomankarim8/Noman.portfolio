@@ -371,6 +371,7 @@ header ul li:hover a{
     header ul{
         display: none;
     }
+    /**Whomi coded**/
     header.active ul{
         position: fixed;
         left: 0;
